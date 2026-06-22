@@ -41,4 +41,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
