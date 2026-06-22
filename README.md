@@ -18,17 +18,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 <!---LeetCode Topics End-->
