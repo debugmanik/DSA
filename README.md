@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0423-reconstruct-original-digits-from-english](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0504-base-7](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0504-base-7/) | Easy |
+| [0507-perfect-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
