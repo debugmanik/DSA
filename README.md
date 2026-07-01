@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0593-valid-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0593-valid-square/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3790-smallest-all-ones-multiple](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3790-smallest-all-ones-multiple/) | Medium |
 ## Binary Search
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
