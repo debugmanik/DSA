@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
