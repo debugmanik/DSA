@@ -177,4 +177,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0596-classes-with-at-least-5-students/) | Easy |
 <!---LeetCode Topics End-->
