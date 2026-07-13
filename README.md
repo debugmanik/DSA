@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1962-remove-stones-to-minimize-the-total/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0595-big-countries](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0596-classes-with-at-least-5-students/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1962-remove-stones-to-minimize-the-total/) | Medium |
 <!---LeetCode Topics End-->
