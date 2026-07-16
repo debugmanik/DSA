@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0593-valid-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0593-valid-square/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
