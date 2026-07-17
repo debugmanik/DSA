@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0593-valid-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0593-valid-square/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,4 +226,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
