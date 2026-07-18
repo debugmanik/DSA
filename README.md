@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
