@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0504-base-7](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0504-base-7/) | Easy |
 | [1002-find-common-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1002-find-common-characters/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1405-longest-happy-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1405-longest-happy-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0735-asteroid-collision](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -203,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
