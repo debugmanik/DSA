@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0724-find-pivot-index](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
+| [0733-flood-fill](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -252,5 +253,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0733-flood-fill](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [1260-shift-2d-grid](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0733-flood-fill](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0733-flood-fill](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 <!---LeetCode Topics End-->
