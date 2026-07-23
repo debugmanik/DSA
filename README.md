@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-keep-multiplying-found-values-by-two](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
+| [3668-restore-finishing-order](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3790-smallest-all-ones-multiple](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3790-smallest-all-ones-multiple/) | Medium |
 | [3945-digit-frequency-score](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-keep-multiplying-found-values-by-two](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3668-restore-finishing-order](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
