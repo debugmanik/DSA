@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [1260-shift-2d-grid](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
