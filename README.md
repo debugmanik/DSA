@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3285-find-indices-of-stable-mountains/) | Easy |
