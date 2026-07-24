@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0593-valid-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0593-valid-square/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
+| [1486-xor-operation-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Memoization
