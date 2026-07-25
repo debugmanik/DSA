@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [2942-find-words-containing-character](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3110-score-of-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
