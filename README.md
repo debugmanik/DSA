@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2545-sort-the-students-by-their-kth-score](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sliding Window
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3790-smallest-all-ones-multiple](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3790-smallest-all-ones-multiple/) | Medium |
