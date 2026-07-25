@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0504-base-7](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0504-base-7/) | Easy |
 | [0796-rotate-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
+| [0848-shifting-letters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0848-shifting-letters/) | Medium |
 | [1002-find-common-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1002-find-common-characters/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0848-shifting-letters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0848-shifting-letters/) | Medium |
 | [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0724-find-pivot-index](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
+| [0848-shifting-letters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0848-shifting-letters/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
