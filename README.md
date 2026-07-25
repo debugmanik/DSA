@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1678-goal-parser-interpretation](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [1844-replace-all-digits-with-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1844-replace-all-digits-with-characters/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
