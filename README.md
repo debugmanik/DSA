@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1389-create-target-array-in-the-given-order](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1528-shuffle-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1630-arithmetic-subarrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1630-arithmetic-subarrays/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [1260-shift-2d-grid](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Depth-First Search
