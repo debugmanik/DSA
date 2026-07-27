@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2974-minimum-number-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3206-alternating-groups-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3206-alternating-groups-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [3206-alternating-groups-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3206-alternating-groups-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
