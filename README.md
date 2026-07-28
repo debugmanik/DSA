@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0423-reconstruct-original-digits-from-english](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0535-encode-and-decode-tinyurl/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1002-find-common-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1002-find-common-characters/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0423-reconstruct-original-digits-from-english](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0504-base-7](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0504-base-7/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0535-encode-and-decode-tinyurl/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0796-rotate-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [0848-shifting-letters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0848-shifting-letters/) | Medium |
@@ -441,4 +443,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0535-encode-and-decode-tinyurl/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0535-encode-and-decode-tinyurl/) | Medium |
 <!---LeetCode Topics End-->
