@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1812-determine-color-of-a-chessboard-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2109-adding-spaces-to-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2974-minimum-number-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -451,4 +455,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0535-encode-and-decode-tinyurl/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 <!---LeetCode Topics End-->
