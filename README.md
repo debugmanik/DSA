@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1405-longest-happy-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1405-longest-happy-string/) | Medium |
 | [1528-shuffle-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-matrix-diagonal-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1630-arithmetic-subarrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1630-arithmetic-subarrays/) | Medium |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
