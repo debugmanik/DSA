@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-keep-multiplying-found-values-by-two](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
+| [2373-largest-local-values-in-a-matrix](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
+| [2373-largest-local-values-in-a-matrix](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
