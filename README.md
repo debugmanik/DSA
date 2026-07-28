@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
