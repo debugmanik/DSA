@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3146-permutation-difference-between-two-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3146-permutation-difference-between-two-strings/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
+| [3223-minimum-length-of-string-after-operations](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3146-permutation-difference-between-two-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3146-permutation-difference-between-two-strings/) | Easy |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3223-minimum-length-of-string-after-operations](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
+| [3223-minimum-length-of-string-after-operations](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
