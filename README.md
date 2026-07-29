@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0367-valid-perfect-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
