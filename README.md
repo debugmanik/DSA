@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3223-minimum-length-of-string-after-operations](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3223-minimum-length-of-string-after-operations/) | Medium |
+| [3271-hash-divided-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3271-hash-divided-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-find-triangular-sum-of-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2974-minimum-number-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3271-hash-divided-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3271-hash-divided-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
