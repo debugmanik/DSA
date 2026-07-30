@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2942-find-words-containing-character](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2974-minimum-number-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3206-alternating-groups-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3206-alternating-groups-i/) | Easy |
