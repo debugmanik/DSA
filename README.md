@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-keep-multiplying-found-values-by-two](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Medium |
