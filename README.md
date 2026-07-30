@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-count-the-digits-that-divide-a-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2769-find-the-maximum-achievable-number/) | Easy |
+| [2843-count-symmetric-integers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2843-count-symmetric-integers/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
@@ -435,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1291-sequential-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1291-sequential-digits/) | Medium |
 | [1534-count-good-triplets](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1534-count-good-triplets/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
+| [2843-count-symmetric-integers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2843-count-symmetric-integers/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
