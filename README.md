@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1002-find-common-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1002-find-common-characters/) | Easy |
+| [1051-height-checker](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 | [1260-shift-2d-grid](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [1051-height-checker](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -507,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1051-height-checker](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Design
