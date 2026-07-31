@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1962-remove-stones-to-minimize-the-total](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
+| [2578-split-with-minimum-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2578-split-with-minimum-sum/) | Easy |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-keep-multiplying-found-values-by-two](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2578-split-with-minimum-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2578-split-with-minimum-sum/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2974-minimum-number-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2485-find-the-pivot-integer](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2578-split-with-minimum-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2578-split-with-minimum-sum/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2769-find-the-maximum-achievable-number/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2843-count-symmetric-integers/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
