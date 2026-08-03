@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3790-smallest-all-ones-multiple](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3790-smallest-all-ones-multiple/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 | [3945-digit-frequency-score](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
