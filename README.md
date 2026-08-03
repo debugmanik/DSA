@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2942-find-words-containing-character](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3019-number-of-changing-keys](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3019-number-of-changing-keys/) | Easy |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3110-score-of-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3146-permutation-difference-between-two-strings/) | Easy |
