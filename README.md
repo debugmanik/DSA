@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3223-minimum-length-of-string-after-operations](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3223-minimum-length-of-string-after-operations/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3227-vowels-game-in-a-string/) | Medium |
 | [3271-hash-divided-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3271-hash-divided-string/) | Medium |
 | [3340-check-balanced-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3340-check-balanced-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3227-vowels-game-in-a-string/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3227-vowels-game-in-a-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -560,4 +563,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0877-stone-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3227-vowels-game-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
