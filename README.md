@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1528-shuffle-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1534-count-good-triplets/) | Easy |
@@ -451,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3170-lexicographically-minimum-string-after-removing-stars/) | Medium |
 ## Monotonic Stack
@@ -461,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
