@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2956-find-common-elements-between-two-arrays/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3146-permutation-difference-between-two-strings/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2956-find-common-elements-between-two-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2974-minimum-number-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2974-minimum-number-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
