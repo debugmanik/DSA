@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1323-maximum-69-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1323-maximum-69-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
+| [1518-water-bottles](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
+| [1518-water-bottles](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1920-build-array-from-permutation/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
