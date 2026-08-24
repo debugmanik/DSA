@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0086-partition-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
+| [0148-sort-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0165-compare-version-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0165-compare-version-numbers/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0148-sort-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -448,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -627,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0086-partition-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
+| [0148-sort-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
