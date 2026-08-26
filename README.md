@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2418-sort-the-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2418-sort-the-people/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-keep-multiplying-found-values-by-two](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
@@ -575,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
