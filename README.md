@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0419-battleships-in-a-board/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0402-remove-k-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -536,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0877-stone-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1025-divisor-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
