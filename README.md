@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0786-k-th-smallest-prime-fraction](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0848-shifting-letters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0848-shifting-letters/) | Medium |
 | [0877-stone-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0786-k-th-smallest-prime-fraction](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1051-height-checker](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
@@ -447,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0786-k-th-smallest-prime-fraction](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -562,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1405-longest-happy-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1405-longest-happy-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1962-remove-stones-to-minimize-the-total/) | Medium |
