@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3737-count-subarrays-with-majority-element-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3790-smallest-all-ones-multiple](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3790-smallest-all-ones-multiple/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 | [3945-digit-frequency-score](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Binary Search
