@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
