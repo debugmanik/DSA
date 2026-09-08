@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3790-smallest-all-ones-multiple](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3790-smallest-all-ones-multiple/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3870-count-commas-in-range](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
