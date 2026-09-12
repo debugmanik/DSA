@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2364-count-number-of-bad-pairs/) | Medium |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
@@ -602,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1291-sequential-digits/) | Medium |
 | [1534-count-good-triplets](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1534-count-good-triplets/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2843-count-symmetric-integers/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
@@ -705,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
