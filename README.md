@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0593-valid-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0593-valid-square/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
+| [0836-rectangle-overlap](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0593-valid-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0593-valid-square/) | Medium |
+| [0836-rectangle-overlap](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
