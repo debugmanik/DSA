@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2418-sort-the-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2418-sort-the-people/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2367-number-of-arithmetic-triplets/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2578-split-with-minimum-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2578-split-with-minimum-sum/) | Easy |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -589,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2063-vowels-of-all-substrings/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Database
 | Problem Name | Difficulty |
