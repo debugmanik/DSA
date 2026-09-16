@@ -597,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0176-second-highest-salary/) | Medium |
 | [0595-big-countries](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0596-classes-with-at-least-5-students/) | Easy |
 ## Heap (Priority Queue)
