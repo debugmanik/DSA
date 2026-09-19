@@ -425,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1323-maximum-69-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1323-maximum-69-number/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1518-water-bottles](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1551-minimum-operations-to-make-array-equal/) | Medium |
@@ -532,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0593-valid-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0593-valid-square/) | Medium |
 | [0836-rectangle-overlap](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
