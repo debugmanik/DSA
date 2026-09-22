@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
+| [3527-find-the-most-common-response](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3527-find-the-most-common-response/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3659-partition-array-into-k-distinct-groups/) | Medium |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3340-check-balanced-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3340-check-balanced-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3527-find-the-most-common-response](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3527-find-the-most-common-response/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3794-reverse-string-prefix/) | Easy |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3223-minimum-length-of-string-after-operations](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3223-minimum-length-of-string-after-operations/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
+| [3527-find-the-most-common-response](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3527-find-the-most-common-response/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3659-partition-array-into-k-distinct-groups/) | Medium |
@@ -268,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-unique-3-digit-even-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3527-find-the-most-common-response](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3527-find-the-most-common-response/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3659-partition-array-into-k-distinct-groups/) | Medium |
 | [3668-restore-finishing-order](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
