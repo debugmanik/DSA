@@ -690,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0113-path-sum-ii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0419-battleships-in-a-board/) | Medium |
 | [0733-flood-fill](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
@@ -707,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0113-path-sum-ii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -764,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0113-path-sum-ii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Binary Tree
@@ -771,6 +774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0113-path-sum-ii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Binary Lifting
