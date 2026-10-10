@@ -466,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2063-vowels-of-all-substrings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2063-vowels-of-all-substrings/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2364-count-number-of-bad-pairs/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
@@ -582,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2109-adding-spaces-to-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2390-removing-stars-from-a-string/) | Medium |
 | [2974-minimum-number-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
