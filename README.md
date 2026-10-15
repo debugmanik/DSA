@@ -556,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
@@ -568,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Geometry
@@ -666,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1405-longest-happy-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1405-longest-happy-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -782,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0086-partition-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
 | [0148-sort-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
@@ -847,4 +851,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
