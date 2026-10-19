@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0423-reconstruct-original-digits-from-english](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0423-reconstruct-original-digits-from-english/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0535-encode-and-decode-tinyurl/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0423-reconstruct-original-digits-from-english](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0423-reconstruct-original-digits-from-english/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0504-base-7](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0504-base-7/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0535-encode-and-decode-tinyurl/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1208-get-equal-substrings-within-budget](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1208-get-equal-substrings-within-budget/) | Medium |
