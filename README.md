@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1816-truncate-sentence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1816-truncate-sentence/) | Easy |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1844-replace-all-digits-with-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1844-replace-all-digits-with-characters/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
