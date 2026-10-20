@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
