@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1726-tuple-with-same-product](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1726-tuple-with-same-product/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2094-finding-3-digit-even-numbers/) | Easy |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1726-tuple-with-same-product](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1726-tuple-with-same-product/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2150-find-all-lonely-numbers-in-the-array/) | Medium |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [1726-tuple-with-same-product](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1726-tuple-with-same-product/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1816-truncate-sentence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1816-truncate-sentence/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
