@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0535-encode-and-decode-tinyurl/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0419-battleships-in-a-board/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0165-compare-version-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0165-compare-version-numbers/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
@@ -399,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0148-sort-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -551,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0367-valid-perfect-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
