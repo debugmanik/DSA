@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
 | [0848-shifting-letters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0848-shifting-letters/) | Medium |
 | [0877-stone-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
 | [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
 | [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -409,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
 | [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1051-height-checker](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
@@ -563,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1208-get-equal-substrings-within-budget/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
