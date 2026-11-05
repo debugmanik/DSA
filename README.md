@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0826-most-profit-assigning-work](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
 | [0881-boats-to-save-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -419,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1561-maximum-number-of-coins-you-can-get/) | Medium |
@@ -570,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0826-most-profit-assigning-work](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0826-most-profit-assigning-work/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1208-get-equal-substrings-within-budget/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
