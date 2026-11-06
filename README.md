@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0036-valid-sudoku](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
+| [0049-group-anagrams](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0423-reconstruct-original-digits-from-english](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0423-reconstruct-original-digits-from-english/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0049-group-anagrams](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0165-compare-version-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0165-compare-version-numbers/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0036-valid-sudoku](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
+| [0049-group-anagrams](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -408,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
