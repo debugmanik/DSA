@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0135-candy](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0419-battleships-in-a-board/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
 | [0148-sort-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0165-compare-version-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0165-compare-version-numbers/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -572,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0287-find-the-duplicate-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
@@ -759,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
@@ -927,4 +931,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
