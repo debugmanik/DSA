@@ -737,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0181-employees-earning-more-than-their-managers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0183-customers-who-never-order/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0196-delete-duplicate-emails/) | Easy |
 | [0595-big-countries](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0596-classes-with-at-least-5-students/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1045-customers-who-bought-all-products/) | Medium |
