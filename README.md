@@ -742,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0596-classes-with-at-least-5-students/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1045-customers-who-bought-all-products/) | Medium |
+| [1148-article-views-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
