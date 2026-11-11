@@ -743,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0596-classes-with-at-least-5-students/) | Easy |
+| [0620-not-boring-movies](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1045-customers-who-bought-all-products/) | Medium |
 | [1148-article-views-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
