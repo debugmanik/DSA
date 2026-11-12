@@ -745,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0596-classes-with-at-least-5-students](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/1045-customers-who-bought-all-products/) | Medium |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/1661-average-time-of-process-per-machine/) | Easy |
