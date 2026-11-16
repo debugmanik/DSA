@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2109-adding-spaces-to-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2390-removing-stars-from-a-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [2418-sort-the-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2418-sort-the-people/) | Easy |
@@ -666,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2390-removing-stars-from-a-string/) | Medium |
 | [2974-minimum-number-game](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
