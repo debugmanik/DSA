@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2578-split-with-minimum-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2578-split-with-minimum-sum/) | Easy |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2971-find-polygon-with-the-largest-perimeter/) | Medium |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2418-sort-the-people](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2418-sort-the-people/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2578-split-with-minimum-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2578-split-with-minimum-sum/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
