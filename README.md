@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2109-adding-spaces-to-a-string/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2390-removing-stars-from-a-string/) | Medium |
