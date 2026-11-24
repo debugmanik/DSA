@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3334-find-the-maximum-factor-score-of-array/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3467-transform-array-by-parity/) | Easy |
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3206-alternating-groups-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3206-alternating-groups-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -560,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3334-find-the-maximum-factor-score-of-array/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -696,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3334-find-the-maximum-factor-score-of-array/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
@@ -793,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2843-count-symmetric-integers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/2843-count-symmetric-integers/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/debugmanik/DSA/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/debugmanik/DSA/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
